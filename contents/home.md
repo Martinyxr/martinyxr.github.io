@@ -1,16 +1,23 @@
 
 
-[![senli1073](https://img.shields.io/badge/senli1073-github-blue?logo=github)](https://github.com/senli1073)
+[![Martinyxr](https://img.shields.io/badge/Martinyxr-github-blue?logo=github)](https://github.com/Martinyxr)
 
-He is currently pursuing a Master's Degree in Computer Science, at School of Computer Science and Technology, China University of Mining and Technology, China.
+**PhD Student,** [NJU Meta Graphics & 3D Vision Lab](http://www.njumeta.com)**,** [Computer Science and Technology](http://cs.nju.edu.cn//), [Nanjing University](http://www.nju.edu.cn/)**, Nanjing, China.**
+
+**Supervisor: Prof.** 
+[Yanwen Guo](http://cs.nju.edu.cn/ywguo)
+
+
+I received my bachelor's degree (2021) from the department of Computer Science and Technology (Honored Class) at Nanjing University. I am currently working toward the PhD degree in the department of Computer Science and Technology at Nanjing University. My research interests include 3D computer vision, 3D reconstruction and point cloud understanding.
+
 
 #### Email
-sli[at]cumt.edu.cn
+xryang[at]smail.nju.edu.cn
 
 #### Education
-M.E., Computer Science and Technology, China University of Mining and Technology, 2022—2025 (expected).\
-B.E., Data Science and Big Data Technology, China University of Mining and Technology, 2018—2022.
+Ph.D., Computer Science and Technology, Nanjing University, 2021—2026 (expected).\
+B.Sc., Computer Science and Technology, Nanjing University, 2017—2021.
 
 #### Research Interests
-Deep Learning, Artificial Intelligence Seismology, Mine Microseismic.
+3D Computer Vision, 3D Reconstruction, Point Cloud Understanding.
 
