@@ -1,4 +1,4 @@
-- <strong>Xinran Yang</strong>, Donghao ji, Yuanqi Li, Junyuan Xie, Jie Guo, Yanwen Guo. SGCR: Spherical Gaussians for Efficient 3D Curve Reconstruction. <strong>IEEE/CVF Conference on Computer Vision and Pattern 
+- <strong>Xinran Yang</strong>, Donghao ji, Yuanqi Li, Jie Guo, Yanwen Guo, Junyuan Xie. SGCR: Spherical Gaussians for Efficient 3D Curve Reconstruction. <strong>IEEE/CVF Conference on Computer Vision and Pattern 
 Recognition, 2025</strong>. 
 
 
