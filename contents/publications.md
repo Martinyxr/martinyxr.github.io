@@ -1,6 +1,7 @@
+- <strong>Xinran Yang</strong>, Shuichang Lai, Jiangjing Lyu, Hongjie Li, Bowen Pan, Yuanqi Li, Jie Guo, Zhengkang Zhou, Yanwen Guo. LoG3D: Ultra-High-Resolution 3D Shape Modeling via Local-to-Global Partitioning. <strong>IEEE/CVF Conference on Computer Vision and Pattern Recognition, 2026</strong>. 
+
 - <strong>Xinran Yang</strong>, Donghao ji, Yuanqi Li, Jie Guo, Yanwen Guo, Junyuan Xie. SGCR: Spherical Gaussians for Efficient 3D Curve Reconstruction. <strong>IEEE/CVF Conference on Computer Vision and Pattern 
 Recognition, 2025</strong>. 
-
 
 - <strong>Xinran Yang</strong>, Donghao ji, Yuanqi Li, Junyuan Xie, Jie Guo, Yanwen Guo. EdgeMovingNet: Edge-preserving Point Cloud Reconstruction via Joint Geometry Features. <strong>IEEE/CVF Conference on Computer Vision and Pattern 
 Recognition, 2025</strong>. 
